@@ -44,7 +44,7 @@ class Scraper
 end
 
 
-puts Scraper.scrape_profile_page("https://learn-co-curriculum.github.io/student-scraper-test-page/students/james-novak.html")
+puts Scraper.scrape_index_page("https://learn-co-curriculum.github.io/student-scraper-test-page")
 
 
 
